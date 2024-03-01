@@ -5,7 +5,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-size: 12.5px;
+    font-size: 12px;
 }
 
 .jobber-name {
@@ -129,7 +129,7 @@ html, body {
 @media print {
     html, body {
         width: 210mm;
-        height: 297mm;        
+        height: 299mm;        
     }
     .page {
         margin: 0;
